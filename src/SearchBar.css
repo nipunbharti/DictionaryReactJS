@@ -1,0 +1,12 @@
+.searchBarContainer input {
+  width: 100%;
+  font-size: 20px;
+  padding: 10px 8px;
+  border: 1px solid #bbb;
+  margin-top: 20px;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.searchBarContainer > div {
+  margin: 0px 15px 15px 15px;
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+
+.displayContainer{
+    text-align: center;
+    padding-top: 8%;
+}
+
+.innerContainer{
+    display: inline-flex;
+}
+
+.displayContainer .definitionHeader{
+    font-size: 50px;
+}
+
+.displayContainer .definitionText{
+    padding: 20px 20px;
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+}

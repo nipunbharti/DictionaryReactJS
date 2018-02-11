@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css?family=Barlow+Condensed");
+
+.headerContainer {
+  width: 100%;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.headerText {
+  font-size: 50px;
+  font-family: "Barlow Condensed", sans-serif;
+  display: inline;
+  padding-right: 10px;
+}
+
+Icon {
+  text-align: center;
+}
+
+.lowerHeader {
+  font-family: "Barlow Condensed", sans-serif;
+  font-size: 20px;
+}
+
+.blue {
+  color: #3a86ff;
+}
