@@ -1,21 +1,22 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed");
 
-.displayContainer{
-    text-align: center;
-    padding-top: 8%;
+.displayContainer {
+  text-align: center;
+  padding-top: 8%;
 }
 
-.innerContainer{
-    display: inline-flex;
+.innerContainer {
+  display: inline-flex;
 }
 
-.displayContainer .definitionHeader{
-    font-size: 50px;
+.displayContainer .definitionHeader {
+  color: #3a86ff;
+  font-size: 50px;
 }
 
-.displayContainer .definitionText{
-    padding: 20px 20px;
-    font-size: 20px;
-    font-family: 'Roboto Condensed', sans-serif;
-    text-align: center;
+.displayContainer .definitionText {
+  padding: 20px 20px;
+  font-size: 20px;
+  font-family: "Roboto Condensed", sans-serif;
+  text-align: center;
 }

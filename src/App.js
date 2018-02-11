@@ -3,7 +3,6 @@ import Header from "./Header";
 import SearchBar from "./SearchBar";
 import filterDict from "./filterDict";
 import Display from "./Display";
-import "./App.css";
 
 class App extends PureComponent {
   constructor(props) {
