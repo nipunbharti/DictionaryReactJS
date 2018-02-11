@@ -6,9 +6,9 @@ Created using *create-react-app*.
 Install:
 ---
 
-'npm install'
+`npm install`
 
 Usage:
 ---
 
-'npm start'
+`npm start`
